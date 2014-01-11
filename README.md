@@ -1,5 +1,7 @@
 # Music Dashboard
 
+[Live Demo](http://reedrosenbluth.com/mu/)
+
 Music Dashboard is a static page I made for my website.
 It pulls in my listening data from my Last.fm account.
 
