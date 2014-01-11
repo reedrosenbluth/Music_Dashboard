@@ -1,0 +1,29 @@
+
+body {
+	/*background-color: #eef0f0;*/
+}
+
+.page-header {
+	/*border-bottom: 1px solid #E0E0E0;*/
+}
+
+.list-group-item.header {
+    background-color: #f5f5f5;
+    color: #db5959;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.list-group-item .plays {
+	font-weight: normal;
+}
+
+a .list-group-item-heading {
+	font-weight: normal;
+	color: #729ba5 !important;
+}
+
+.list-group-item a {
+	text-decoration: none;
+	color: #729ba5;
+}
